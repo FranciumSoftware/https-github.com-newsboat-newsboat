@@ -1,4 +1,5 @@
 var update=false;
+alert('Ca marche!');
 let version=1;
 let NewsVersion=2;
 document.getElementById('version').style.display='none';
